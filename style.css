@@ -1,0 +1,28 @@
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+
+}
+head{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: azure;
+    align-items: center;
+    display: flex;
+
+}
+
+.container{
+width: 90px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+}
+
